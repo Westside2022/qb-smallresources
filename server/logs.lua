@@ -1,3 +1,6 @@
+Ws logs.lua
+
+
 local QBCore = exports['qb-core']:GetCoreObject()
 
 local Webhooks = {
